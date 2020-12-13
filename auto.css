@@ -42,7 +42,7 @@
 
  .autoEvaluc {
     width: 90%;
-    height: 600px;
+    height: 800px;
     padding: 1em;
 }
 
@@ -50,3 +50,11 @@
     display: block;
     margin-left: 6em;
 }
+
+#boton {
+    text-decoration:none;
+    color:white;
+    padding:10px 20px;
+    background-color:#FF9800;
+    display:inline-block
+    }
